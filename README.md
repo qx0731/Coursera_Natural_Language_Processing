@@ -1,3 +1,2 @@
-# Coursera_Natural_Language_Processing
-
-Learn and be curious: part of Natural Language Processing Specialization
+# Learn and be curious
+Part of Natural Language Processing Specialization 
